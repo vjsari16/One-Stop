@@ -1,0 +1,13 @@
+.bg-imgup{
+    margin: 0;
+    background-image: url('https://media.istockphoto.com/id/1340117122/photo/cube-with-shopping-trolley-symbol-on-the-laptop-keyboard.jpg?s=612x612&w=0&k=20&c=H9wHzhYHnZ8EjaM-Mp9ssQwoyjs1Ol1Imi7xy1b7J-M=');
+    background-repeat:no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 200vh;
+    z-index: -1;
+    margin-bottom: 0;
+    
+    
+}
+

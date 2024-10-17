@@ -1,0 +1,53 @@
+.Nav-main {
+    width: 100%;
+    background-color: #1b75d5;
+    background-image: url("https://img.freepik.com/free-photo/flat-lay-vegetables-frame_23-2148516769.jpg?size=626&ext=jpg&ga=GA1.1.1677326305.1675962342&semt=ais");
+  }
+  
+  .navbar {
+    padding: 10px 20px;
+    background-color: orange; /* White background */
+  }
+  
+  .navbar-brand {
+    font-size: 30px;
+    font-weight:bolder;
+    color: #333333; 
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-left: 80px;
+  }
+  
+  .navbar-toggler {
+    border: none;
+  }
+  
+  .navbar-toggler:focus {
+    outline: none;
+  }
+  
+  .navbar-toggler-icon {
+    background-color: #333333; /* Dark gray background */
+  }
+  
+  .navbar-nav {
+    margin-left: auto; /* Align navbar items to the right */
+    font-weight: bold;
+    
+
+  }
+  
+  .nav-link {
+    color: #090707; /* Dark gray text color */
+    font-size: 18px;
+    font-weight: bold;
+    margin-left: 20px;
+  }
+  
+  .nav-link:hover {
+    color: #899eb6; /* Blue text color on hover */
+  }
+  .nav-item{
+    
+    padding-left: 30px;
+
+  }
